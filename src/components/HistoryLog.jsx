@@ -1,3 +1,9 @@
+// HistoryLog.jsx – scrollable list of past translations
+// Props
+//   • history          – array of {input, output, timestamp, …}
+//   • favorites        – array of favourite entries
+//   • onToggleFavorite – handler(entry)
+//   • onCopy           – handler(entry)
 import React from 'react';
 import CopyButton from './CopyButton';
 import FavoriteButton from './FavoriteButton';

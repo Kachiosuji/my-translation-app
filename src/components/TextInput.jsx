@@ -1,3 +1,9 @@
+// TextInput.jsx – source-text textarea
+// Props
+//   • value    – bound string
+//   • onChange – callback(newText)
+//
+// Kept dumb; styling is via Tailwind.
 import React from 'react';
 
 export default function TextInput({ value, onChange }) {
