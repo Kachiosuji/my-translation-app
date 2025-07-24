@@ -1,6 +1,6 @@
 md\n<div align=\"center\">\n\n<h1>🌍 My Translation App</h1>\n\nA responsive, bilingual translation web-app built with <strong>Vite + React 18 + Tailwind CSS</strong>.<br>\nDefault pair: <strong>English ⇄ Yoruba</strong>, but users can choose any of Google’s 100 + languages.\n\n<img src=\"docs/assets/screenshot-light.png\" width=\"650\" alt=\"UI screenshot\">\n\n</div>\n
 
-[Live Demo ›](https://YOUR-VERCEL-URL.vercel.app)
+[Live Demo ›](https://translationapp-kappa.vercel.app/)
 
 ---
 
