@@ -10,7 +10,3 @@
 | **Vercel Platform**                             | Hosting provider      | Requires efficient build output & env-vars          |
 
 _Rationale:_ Covering platform vendors clarifies external dependencies; including future maintainers highlights documentation value for knowledge transfer.
-
-```
-
-```

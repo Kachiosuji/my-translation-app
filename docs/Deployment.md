@@ -23,7 +23,7 @@
 
 ## Live URL
 
-> https://my-translation-app.vercel.app _(update after first deploy)_
+> https://translationapp-kappa.vercel.app/
 
 🏷️ Optional – .env.example
 
