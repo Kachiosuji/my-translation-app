@@ -1,6 +1,21 @@
-md\n<div align=\"center\">\n\n<h1>🌍 My Translation App</h1>\n\nA responsive, bilingual translation web-app built with <strong>Vite + React 18 + Tailwind CSS</strong>.<br>\nDefault pair: <strong>English ⇄ Yoruba</strong>, but users can choose any of Google’s 100 + languages.\n\n<img src=\"docs/assets/screenshot-light.png\" width=\"650\" alt=\"UI screenshot\">\n\n</div>\n
+<div align="center">
 
-[Live Demo ›](https://translationapp-kappa.vercel.app/)
+<h1>🌍 My Translation App</h1>
+
+<p>
+  A responsive, bilingual translation web-app built with
+  <strong>Vite + React 18 + Tailwind CSS</strong>.<br>
+  Default pair: <strong>English ⇄ Yoruba</strong>,
+  but users can choose any of Google’s 100 + languages.
+</p>
+
+<img src="docs/assets/screenshot-light.png" width="650" alt="UI screenshot">
+
+<p>
+  <a href="https://translationapp-kappa.vercel.app"><strong>Live Demo →</strong></a>
+</p>
+
+</div>
 
 ---
 
